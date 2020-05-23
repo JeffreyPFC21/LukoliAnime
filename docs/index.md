@@ -1,6 +1,6 @@
 ## Welcome to Lukoli Anime
 
-You can watch all your favourite anime, all in one small little package!
+You can download all your favourite anime, all in one small little package!
 
 ### About
 
